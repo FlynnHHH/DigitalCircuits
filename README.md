@@ -5,4 +5,5 @@
 3. FSM
 4. FIFO
 ### Environment
-run on Vivado 2017.4
+* Windows 11 
+* Vivado 2017.4
