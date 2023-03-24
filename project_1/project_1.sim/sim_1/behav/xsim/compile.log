@@ -1,0 +1,6 @@
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/FHH/大学/个人/数字电路/prj/project/project_1/project_1.srcs/sources_1/new/add_4.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module add_4
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/FHH/大学/个人/数字电路/prj/project/project_1/project_1.srcs/sim_1/new/text_add_4.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module text_add_4
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/FHH/大学/个人/数字电路/prj/project/project_1/project_1.sim/sim_1/behav/xsim/glbl.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module glbl

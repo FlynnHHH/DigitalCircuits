@@ -1,0 +1,14 @@
+#-----------------------------------------------------------
+# Vivado v2017.4 (64-bit)
+# SW Build 2086221 on Fri Dec 15 20:55:39 MST 2017
+# IP Build 2085800 on Fri Dec 15 22:25:07 MST 2017
+# Start of session at: Thu Oct 20 11:12:05 2022
+# Process ID: 56480
+# Current directory: D:/FHH/大学/个人/数字电路/prj/project/project_2
+# Command line: vivado.exe -gui_launcher_event rodinguilauncherevent73184 D:\FHH\大学\个人\数字电路\prj\project\project_2\project_2.xpr
+# Log file: D:/FHH/大学/个人/数字电路/prj/project/project_2/vivado.log
+# Journal file: D:/FHH/大学/个人/数字电路/prj/project/project_2\vivado.jou
+#-----------------------------------------------------------
+start_gui
+open_project D:/FHH/大学/个人/数字电路/prj/project/project_2/project_2.xpr
+update_compile_order -fileset sources_1
